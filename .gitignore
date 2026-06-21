@@ -1,0 +1,28 @@
+# Dependency directories
+node_modules/
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Local databases
+*.db
+*.db-journal
+*.sqlite3
+
+# Environment configurations containing keys
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDEs & System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Large promo video (saved locally on your desktop)
+smartseller_4k_promo.mp4
